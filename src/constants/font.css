@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "ls-black";
+  src: url(../assests/fonts/LeagueSpartan-Black.ttf);
+}
+@font-face {
+  font-family: "ls-bold";
+  src: url(../assests/fonts/LeagueSpartan-Bold.ttf);
+}
+@font-face {
+  font-family: "ls-extraBold";
+  src: url(../assests/fonts/LeagueSpartan-ExtraBold.ttf);
+}
+@font-face {
+  font-family: "ls-extraLight";
+  src: url(../assests/fonts/LeagueSpartan-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "ls-light";
+  src: url(../assests/fonts/LeagueSpartan-Light.ttf);
+}
+@font-face {
+  font-family: "ls-medium";
+  src: url(../assests/fonts/LeagueSpartan-Medium.ttf);
+}
+@font-face {
+  font-family: "ls-regular";
+  src: url(../assests/fonts/LeagueSpartan-Regular.ttf);
+}
+@font-face {
+  font-family: "ls-semiBold";
+  src: url(../assests/fonts/LeagueSpartan-SemiBold.ttf);
+}
