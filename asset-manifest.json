@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71dd0a6a.css",
+    "main.js": "/static/js/main.0099114f.js",
+    "static/js/787.dbe6e251.chunk.js": "/static/js/787.dbe6e251.chunk.js",
+    "static/media/shoe-4.png": "/static/media/shoe-4.ed226f7ed1e981f2bd87.png",
+    "static/media/delivery-truck.gif": "/static/media/delivery-truck.30a5f467131e8e884b7d.gif",
+    "static/media/shoe-2.png": "/static/media/shoe-2.ab9a3c658269e320b7f0.png",
+    "static/media/shoe-3.png": "/static/media/shoe-3.54b56a04c51f2ce424a1.png",
+    "static/media/shoe-1.png": "/static/media/shoe-1.8f2dbb8c4b6580729db0.png",
+    "static/media/offer-image.svg": "/static/media/offer-image.c7d6b2254f4de5d7c074e97f8c72a5b9.svg",
+    "static/media/shield.gif": "/static/media/shield.7c8a1fede70162c60b3a.gif",
+    "static/media/shoe4.png": "/static/media/shoe4.96a5ad05adfebee2a142.png",
+    "static/media/social-care.gif": "/static/media/social-care.0e0be23e6d9c942f7083.gif",
+    "static/media/LeagueSpartan-Black.ttf": "/static/media/LeagueSpartan-Black.8ec49f66fb4791a5f30b.ttf",
+    "static/media/LeagueSpartan-ExtraBold.ttf": "/static/media/LeagueSpartan-ExtraBold.62d112c53835f912ef8f.ttf",
+    "static/media/LeagueSpartan-Bold.ttf": "/static/media/LeagueSpartan-Bold.44469610b148f95ce4bb.ttf",
+    "static/media/LeagueSpartan-SemiBold.ttf": "/static/media/LeagueSpartan-SemiBold.4920b1d72a99271fc176.ttf",
+    "static/media/LeagueSpartan-Medium.ttf": "/static/media/LeagueSpartan-Medium.74dedef54115bd2cd108.ttf",
+    "static/media/LeagueSpartan-Regular.ttf": "/static/media/LeagueSpartan-Regular.43e060f9b69d1351558b.ttf",
+    "static/media/LeagueSpartan-Light.ttf": "/static/media/LeagueSpartan-Light.c608cadfd6f6bc11836e.ttf",
+    "static/media/LeagueSpartan-ExtraLight.ttf": "/static/media/LeagueSpartan-ExtraLight.c9bc381074269f5356da.ttf",
+    "static/media/person 2.webp": "/static/media/person 2.218677344a794d969009.webp",
+    "static/media/arrow.png": "/static/media/arrow.778fca13d7732dec8262.png",
+    "static/media/person 1.webp": "/static/media/person 1.fda4aca6acd6c9f68ee3.webp",
+    "static/media/instagram.gif": "/static/media/instagram.b25f8e382b0506b4f841.gif",
+    "static/media/cross.svg": "/static/media/cross.511f8148cf602886d40733080677787f.svg",
+    "index.html": "/index.html",
+    "static/media/hamburger.svg": "/static/media/hamburger.075755066736e216d5012a52d688ab4c.svg",
+    "main.71dd0a6a.css.map": "/static/css/main.71dd0a6a.css.map",
+    "main.0099114f.js.map": "/static/js/main.0099114f.js.map",
+    "787.dbe6e251.chunk.js.map": "/static/js/787.dbe6e251.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71dd0a6a.css",
+    "static/js/main.0099114f.js"
+  ]
+}
