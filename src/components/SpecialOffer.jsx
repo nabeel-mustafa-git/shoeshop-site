@@ -5,7 +5,7 @@ const SpecialOffer = () => {
   return (
     <section className="flex flex-wrap justify-center items-center max-xl:flex-col-reverse gap-7 max-container">
       <div className="flex-1">
-        <img src={offer} width={700} />
+        <img src={offer} alt="offerImage" width={700} />
       </div>
       <div className="flex flex-1 flex-col">
         <h2 className="text-4xl font-bold lg:max-w-lg">
