@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-shoeshop-app/static/css/main.72913d1f.css",
-    "main.js": "/my-shoeshop-app/static/js/main.c094a78e.js",
+    "main.js": "/my-shoeshop-app/static/js/main.e25a1e3f.js",
     "static/js/787.dbe6e251.chunk.js": "/my-shoeshop-app/static/js/787.dbe6e251.chunk.js",
     "static/media/shoe-4.png": "/my-shoeshop-app/static/media/shoe-4.ed226f7ed1e981f2bd87.png",
     "static/media/delivery-truck.gif": "/my-shoeshop-app/static/media/delivery-truck.30a5f467131e8e884b7d.gif",
@@ -28,11 +28,11 @@
     "index.html": "/my-shoeshop-app/index.html",
     "static/media/hamburger.svg": "/my-shoeshop-app/static/media/hamburger.075755066736e216d5012a52d688ab4c.svg",
     "main.72913d1f.css.map": "/my-shoeshop-app/static/css/main.72913d1f.css.map",
-    "main.c094a78e.js.map": "/my-shoeshop-app/static/js/main.c094a78e.js.map",
+    "main.e25a1e3f.js.map": "/my-shoeshop-app/static/js/main.e25a1e3f.js.map",
     "787.dbe6e251.chunk.js.map": "/my-shoeshop-app/static/js/787.dbe6e251.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72913d1f.css",
-    "static/js/main.c094a78e.js"
+    "static/js/main.e25a1e3f.js"
   ]
 }
